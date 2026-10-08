@@ -1,66 +1,78 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Engy%20Refaai&fontColor=6B4C70&fontSize=55&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20ML%20Pipelines%20%E2%80%A2%20GenAI%20%26%20LLMs&descAlignY=72&descSize=17" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:1F2A44,100:3B5B92&text=Engy%20Refaai&fontColor=FFFFFF&fontSize=44&fontAlignY=42&desc=AI%20Engineer&descAlignY=68&descSize=20" alt="Engy Refaai - AI Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C77DBA&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Engy+%F0%9F%8C%B8;I+train+models+and+ship+AI+products+%F0%9F%A7%A0;Building+with+LLMs+%26+RAG+%F0%9F%A6%8B;Best+code+is+written+in+a+cozy+bed+%F0%9F%90%B1%E2%98%95" alt="typing" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Training_Models_🌸-FFB6C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-LLMs_%26_RAG-E6E6FA?style=for-the-badge&labelColor=C9A0DC" />
-  <img src="https://img.shields.io/badge/Fuel-Tea_%26_Snacks-FFFACD?style=for-the-badge&labelColor=F0E68C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=3B5B92&center=true&vCenter=true&width=600&lines=ML+Pipelines+%7C+Generative+AI+%7C+LLMs;Building+production-ready+AI+systems;Retrieval-Augmented+Generation+(RAG)" alt="typing" />
 </p>
 
 ---
 
-## 🌸 About Me
+## About
 
-- 🦋 I'm **Engy Refaai**, an **AI Engineer** who loves turning messy data into useful intelligent systems
-- 🧠 Working on **ML pipelines**, **Generative AI**, and **LLM applications** (RAG, agents, fine-tuning)
-- 📚 Currently learning: *more efficient fine-tuning, evaluation of LLMs, MLOps*
-- 💬 Ask me about: *building RAG systems, ML pipelines, prompt engineering*
-- ☕ Fun fact: my best ideas show up when I'm under a blanket
+AI Engineer focused on designing, building, and deploying machine learning pipelines and Generative AI applications. I work on turning data and models into reliable, scalable products, with a particular interest in LLM-based systems and Retrieval-Augmented Generation (RAG).
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,github,linux,aws,postgres,vscode&perline=6" alt="skills" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-FFB6C1?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-C9A0DC?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-E6E6FA?style=flat-square&logo=pandas&logoColor=black" />
-  <img src="https://img.shields.io/badge/NumPy-FFFACD?style=flat-square&logo=numpy&logoColor=black" />
-</p>
+- Building end-to-end ML pipelines, from data processing to deployment
+- Developing LLM applications: RAG, agents, prompt engineering, and fine-tuning
+- Currently exploring: efficient fine-tuning, LLM evaluation, and MLOps practices
+- Open to collaboration on AI/ML and open-source projects
 
 ---
 
-## 📊 GitHub Stats
+## Core Skills
+
+| Area | Focus |
+|:--|:--|
+| **Machine Learning** | Model training, evaluation, feature engineering, pipelines |
+| **Generative AI** | LLMs, RAG, embeddings, vector search, prompt engineering |
+| **Engineering** | APIs, containerization, version control, cloud deployment |
+| **MLOps** | Experiment tracking, model serving, monitoring |
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=C77DBA&icon_color=FFB6C1&text_color=6B4C70" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=C77DBA&text_color=6B4C70" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,github,linux,aws,postgres,vscode&perline=6&theme=light" alt="skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1F2A44?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-3B5B92?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-1F2A44?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-3B5B92?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-1F2A44?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## Featured Projects
+
+| Project | Description | Tech |
+|:--|:--|:--|
+| [**Project Name**](https://github.com/YOUR_USERNAME/PROJECT_REPO) | One-line description of what it does and the problem it solves. | Python, LangChain, FastAPI |
+| [**Project Name**](https://github.com/YOUR_USERNAME/PROJECT_REPO) | One-line description of what it does and the problem it solves. | PyTorch, Docker |
+| [**Project Name**](https://github.com/YOUR_USERNAME/PROJECT_REPO) | One-line description of what it does and the problem it solves. | Hugging Face, AWS |
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-C9A0DC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=1F2A44&icon_color=3B5B92&text_color=333333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=1F2A44&text_color=333333" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1F2A44?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-3B5B92?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:1F2A44,100:3B5B92&section=footer" />
 </p>
-
-<p align="center"><i>🐱 "Loss decreasing. Cozy increasing. Everything is fine." 🌸</i></p>
