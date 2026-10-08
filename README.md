@@ -12,11 +12,7 @@
 
 <h3 align="center">About Me</h3>
 
-<p align="center">
+
   I'm an AI Engineer with hands-on experience in data analysis and AI.<br/>
   I enjoy turning data into insights and building smart, useful solutions.
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12,18,24&section=footer" alt="footer" />
-</p>
