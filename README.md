@@ -17,24 +17,6 @@
 
 ---
 
-## 🛏️ My Dev Setup (a.k.a. the cozy-driven development methodology)
-
-<p align="center">
-  <img src="./assets/cozy-cat.jpeg" alt="Cozy cat in bed with a teddy bear, tea and snacks, watching a tablet" width="620" style="border-radius:20px" />
-</p>
-
-<p align="center"><i>Me, mid-training-run: blanket ✅ &nbsp; tea ✅ &nbsp; teddy ✅ &nbsp; loss going down 📉</i></p>
-
-| In the picture | What it really is in my workflow |
-|:--|:--|
-| 📱 The tablet | Watching the training logs / Jupyter notebook |
-| ☕ The tea cup | Caffeine → code converter |
-| 🍪 The snacks | Free GPU credits (for the soul) |
-| 🧸 The teddy | My rubber duck for debugging |
-| 🐱 The cat | Me, after the model finally converges |
-
----
-
 ## 🌸 About Me
 
 - 🦋 I'm **Engy Refaai**, an **AI Engineer** who loves turning messy data into useful intelligent systems
